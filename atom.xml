@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bingoright-github-io.pages.dev</id>
     <title>Bingoright</title>
-    <updated>2021-05-07T12:31:35.041Z</updated>
+    <updated>2021-05-10T09:56:38.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bingoright-github-io.pages.dev"/>
     <link rel="self" href="https://bingoright-github-io.pages.dev/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://bingoright-github-io.pages.dev/images/avatar.png</logo>
     <icon>https://bingoright-github-io.pages.dev/favicon.ico</icon>
     <rights>All rights reserved 2021, Bingoright</rights>
+    <entry>
+        <title type="html"><![CDATA[trizol法提RNA（biosharp）及逆转录（yeasen）]]></title>
+        <id>https://bingoright-github-io.pages.dev/post/trizol-fa-ti-rnabiosharp/</id>
+        <link href="https://bingoright-github-io.pages.dev/post/trizol-fa-ti-rnabiosharp/">
+        </link>
+        <updated>2021-05-10T07:38:17.000Z</updated>
+        <content type="html"><![CDATA[<p>提RNA：</p>
+<ol>
+<li>10-30mg组织称重+1ml trizol 试剂（平底EP管，方便搅碎，冰上操作）搅成匀浆；</li>
+<li>离心：12000g 4℃ 10min；</li>
+<li>取上清到新EP管（平），尽可能取上清，室温静置5min；</li>
+<li>+0.2ml氯仿，vortex 15s， 室温静置2-3min；</li>
+<li>离心：12000g 4℃ 15min；</li>
+<li>取上清水相到新EP管（尖底），约0.5-0.55ml；</li>
+<li>+等体积的异丙醇（冰），颠倒混匀，室温沉淀10min；</li>
+<li>离心：12000g 4℃ 10min；</li>
+<li>弃上清，1ml 75%乙醇，颠倒混匀；</li>
+<li>离心：7500g 4℃ 5min；</li>
+<li>弃上清，＞5000rpm，1s，吸尽液体；</li>
+<li>略干，+20-50ul DERC水。</li>
+<li>测RNA浓度：OD260/280在1.8-2.9最佳，＜1.8，可能蛋白质等有机物污染，＞2.0，RNA水解成单核苷酸。<br>
+注意：提RNA最重要的就是快，每个时间段尽量不要延长，不然RNA降解很快。<br>
+逆转录：<br>
+20ul体系，均在冰上操作。<br>
+RNase-free ddH2O  to15ul；<br>
+5<em>gDNA digester Mix   3ul；<br>
+Total RNA   1ug；<br>
+孵育：42℃ 2min；<br>
++4</em>Hifair Ⅲ SuperMix plus  5ul；<br>
+逆转录程序：25℃ 5min，55℃ 15min，85℃ 5min。</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bingoright-github-io.pages.dev/post/hello-gridea/</id>
