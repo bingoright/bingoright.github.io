@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bingoright-github-io.pages.dev</id>
     <title>Bingoright</title>
-    <updated>2021-05-10T10:05:15.144Z</updated>
+    <updated>2021-05-21T03:27:25.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bingoright-github-io.pages.dev"/>
     <link rel="self" href="https://bingoright-github-io.pages.dev/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://bingoright-github-io.pages.dev/post/trizol-fa-ti-rnabiosharp/">
         </link>
         <updated>2021-05-10T07:38:17.000Z</updated>
-        <content type="html"><![CDATA[<p>提RNA：</p>
+        <content type="html"><![CDATA[<p><img src="https://bingoright-github-io.pages.dev/post-images/1621567637921.jpg" alt="" loading="lazy"><br>
+提RNA：</p>
 <ol>
 <li>10-30mg组织称重+1ml trizol 试剂（平底EP管，方便搅碎，冰上操作）搅成匀浆；</li>
 <li>离心：12000g 4℃ 10min；</li>
