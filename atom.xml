@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bingoright-github-io.pages.dev</id>
     <title>Bingoright</title>
-    <updated>2021-05-21T13:18:44.066Z</updated>
+    <updated>2021-10-19T08:36:35.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bingoright-github-io.pages.dev"/>
     <link rel="self" href="https://bingoright-github-io.pages.dev/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://bingoright-github-io.pages.dev/images/avatar.png</logo>
     <icon>https://bingoright-github-io.pages.dev/favicon.ico</icon>
     <rights>All rights reserved 2021, Bingoright</rights>
+    <entry>
+        <title type="html"><![CDATA[《成功的反思》读书随笔]]></title>
+        <id>https://bingoright-github-io.pages.dev/post/lesslesscheng-gong-de-fan-si-greatergreater-du-shu-sui-bi/</id>
+        <link href="https://bingoright-github-io.pages.dev/post/lesslesscheng-gong-de-fan-si-greatergreater-du-shu-sui-bi/">
+        </link>
+        <updated>2021-05-21T02:06:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>什么是公平？当桑德尔教授以“电车悖论”讲授公平时，不禁让人深思，这个社会公平吗？人们是在以怎样的道德标准来评价社会以及决策社会公平。人们在追求价值最大化的过程中失去了什么？（电车悖论：一个疯子把五个无辜的人绑在电车轨道上。一辆失控的电车朝他们驶来，并且片刻后就要碾压到他们。幸运的是，你可以拉一个拉杆，让电车开到另一条轨道上。但是还有一个问题，那个疯子在那另一条轨道上也绑了一个人。你应该拉拉杆吗？）<br>
+现在桑德尔教授带着新书《成功的反思》来探讨什么是成功？只要有能力肯努力就会成功？失败只是因为没天分不努力吗？人们如此簇拥名牌大学，让补习班，兴趣班，竞赛班占领孩子的童年，甚至不惜考试作弊，这背后的根源是什么？精英社会和精英主义有什么弊端？正能量变成“毒鸡汤”，川普当选总统，社会生病了吗？白岩松“不会吧？”的反问为什么会翻车吗？本书或许不会有解决问题的办法，但发现问题本身就有价值。一旦我们发现问题，就再也不可能不去思考这些问题。公平-该如何是好--桑德尔教授公开课<img src="https://bingoright-github-io.pages.dev/post-images/1621563476777.png" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>什么是公平？当桑德尔教授以“电车悖论”讲授公平时，不禁让人深思，这个社会公平吗？人们是在以怎样的道德标准来评价社会以及决策社会公平。人们在追求价值最大化的过程中失去了什么？（电车悖论：一个疯子把五个无辜的人绑在电车轨道上。一辆失控的电车朝他们驶来，并且片刻后就要碾压到他们。幸运的是，你可以拉一个拉杆，让电车开到另一条轨道上。但是还有一个问题，那个疯子在那另一条轨道上也绑了一个人。你应该拉拉杆吗？）<br>
+现在桑德尔教授带着新书《成功的反思》来探讨什么是成功？只要有能力肯努力就会成功？失败只是因为没天分不努力吗？人们如此簇拥名牌大学，让补习班，兴趣班，竞赛班占领孩子的童年，甚至不惜考试作弊，这背后的根源是什么？精英社会和精英主义有什么弊端？正能量变成“毒鸡汤”，川普当选总统，社会生病了吗？白岩松“不会吧？”的反问为什么会翻车吗？本书或许不会有解决问题的办法，但发现问题本身就有价值。一旦我们发现问题，就再也不可能不去思考这些问题。公平-该如何是好--桑德尔教授公开课<img src="https://bingoright-github-io.pages.dev/post-images/1621563476777.png" alt="" loading="lazy"></p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[trizol法提RNA（biosharp）及逆转录（yeasen）]]></title>
         <id>https://bingoright-github-io.pages.dev/post/trizol-fa-ti-rnabiosharp/</id>
